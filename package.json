@@ -1,5 +1,5 @@
 {
-  "name": "vue",
+  "name": "vue002",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "@vue/cli-plugin-babel": "4.1.1",
+    "css-loader": "3.4.2",
+    "sass-loader": "8.0.2",
     "vue": "^2.6.11"
   },
   "devDependencies": {
@@ -43,10 +45,6 @@
     "last 2 versions",
     "not ie <= 8"
   ],
-  "keywords": [
-    "vue",
-    "vuejs",
-    "starter"
-  ],
-  "description": "Vue.js example starter project"
+  "keywords": [],
+  "description": ""
 }
